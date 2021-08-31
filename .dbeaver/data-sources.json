@@ -29,6 +29,22 @@
 				"url": "jdbc:mysql://localhost:3306/student",
 				"home": "C:\\Program Files\\MySQL\\MySQL Server 5.7",
 				"type": "dev",
+				"auth-model": "native"
+			}
+		},
+		"mysql8-17b9ac1f9e9-900145eb09e4adf": {
+			"provider": "mysql",
+			"driver": "mysql8",
+			"name": "std_mgn_2",
+			"save-password": true,
+			"read-only": false,
+			"configuration": {
+				"host": "localhost",
+				"port": "3306",
+				"database": "std_mgn_2",
+				"url": "jdbc:mysql://localhost:3306/std_mgn_2",
+				"home": "C:\\Program Files\\MySQL\\MySQL Server 5.7",
+				"type": "dev",
 				"auth-model": "native",
 				"handlers": {}
 			}
